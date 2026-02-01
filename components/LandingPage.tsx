@@ -152,7 +152,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart, onResumeAnalyzed }) 
 
       {/* Footer */}
       <footer className="mt-auto py-10 px-6 text-center border-t border-slate-800">
-        <p className="text-slate-500 text-sm">© 2024 KaziLens AI. Bridging the gap between talent and opportunity.</p>
+        <p className="text-slate-500 text-sm">© 2026 KaziLens AI. Bridging the gap between talent and opportunity.</p>
       </footer>
     </div>
   );
