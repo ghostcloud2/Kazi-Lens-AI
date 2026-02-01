@@ -1,0 +1,9 @@
+{
+  "name": "KaziLens AI",
+  "description": "An AI-first job board and career accelerator solving the global recruitment loop with intelligent resume parsing, smart job matching, and real-time voice coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
